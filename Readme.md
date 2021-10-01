@@ -1,1 +1,1 @@
-MATLAB Codes for Assignment 1 for CMSC715 Wirless and Mobile Systems for the IOT.
+MATLAB Codes for the Assignments for CMSC715 Wirless and Mobile Systems for the IOT.
